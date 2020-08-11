@@ -6,7 +6,7 @@ So, now he is trapped in the middle of a circle of robbers. There is no way of e
 •   The number of enemies he is surrounded by
 •   Who will be his first target
 
-![Robber Shootout](./shootout.jpg)
+![Robber Shootout](https://gitlab.stackroute.in/stack_java_pgp/challenge-15-boilerplate/-/blob/1014001dce04572247ee9a53338ba01b629fc860/shootout.png)
 
 The hero must also keep track of how many live targets he has missed during the shootout so that he can gauge whether he needs to take out another shot or not. 
 
