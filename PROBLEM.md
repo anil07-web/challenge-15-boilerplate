@@ -6,6 +6,8 @@ So, now he is trapped in the middle of a circle of robbers. There is no way of e
 •   The number of enemies he is surrounded by
 •   Who will be his first target
 
+![Robber Shootout](./shootout.jpg)
+
 The hero must also keep track of how many live targets he has missed during the shootout so that he can gauge whether he needs to take out another shot or not. 
 
 Finally, Sam could shoot all of the robbers, and then he continued on his way to the city.
