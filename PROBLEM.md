@@ -35,15 +35,18 @@ Enter the gap between the robbers:
 
 ### Sample Output:
 ```
-Target = 1, 1 shots completed
-Target = 4, 2 shots completed
-Target = 7, 3 shots completed
-Target = 10, 4 shots completed
-Target = 5, 5 shots completed
-Target = 9, 6 shots completed
-Target = 6, 7 shots completed
-Target = 3, 8 shots completed
-Target = 8, 9 shots completed
-Target = 2, 10 shots completed
+Target = 2, 1 shots completed
+Target = 6, 2 shots completed
+Target = 10, 3 shots completed
+Target = 5, 4 shots completed
+Target = 1, 5 shots completed
+Target = 8, 6 shots completed
+Target = 7, 7 shots completed
+Target = 9, 8 shots completed
+Target = 4, 9 shots completed
+Target = 3, 10 shots completed
 10 shots taken
+
+The shootout sequence was: 
+2,6,10,5,1,8,7,9,4,3
 ```
